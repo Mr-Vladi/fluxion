@@ -511,3 +511,15 @@
 .material-icons.remove_circle:before {
   content: "\f056";
 }
+
+.material-icons.whatsapp:before {
+  content: "\f232";
+}
+
+.material-icons.telegram:before {
+  content: "\f2c6";
+}
+
+.material-icons.facebook:before {
+  content: "\f09a";
+}
